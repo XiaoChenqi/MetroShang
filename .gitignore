@@ -12,3 +12,6 @@
 /app/build
 
 /UIRouterTable
+
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
