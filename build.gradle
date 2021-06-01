@@ -35,7 +35,7 @@ task clean(type: Delete) {
 }
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '2.0'
+    gradleVersion = '4.6'
 }
 
 //// 保证dex_files文件中指定的文件都加载到Main Dex中
